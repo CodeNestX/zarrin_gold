@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="fa" dir="rtl" className={vazirmatn.variable}>
       <head>
-        <link rel="icon" href="/image/favicon.png" />
+        <link rel="icon" href="/images/favicon.png" />
       </head>
       <body>
         <ShopProvider>
